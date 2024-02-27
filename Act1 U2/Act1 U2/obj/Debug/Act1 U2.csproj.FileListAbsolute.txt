@@ -1,0 +1,14 @@
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.csproj.AssemblyReference.cache
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1_U2.Form1.resources
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1_U2.Properties.Resources.resources
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.csproj.GenerateResource.cache
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.csproj.CoreCompileInputs.cache
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\Act1 U2.exe.config
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\Act1 U2.exe
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\Act1 U2.pdb
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\MetroFramework.Design.dll
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\MetroFramework.dll
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.csproj.Up2Date
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.exe
+C:\Users\tickt\source\repos\Act1 U2\Act1 U2\obj\Debug\Act1 U2.pdb
